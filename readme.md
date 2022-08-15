@@ -22,7 +22,7 @@ A simple script that displays picture in a sort of gallery form
 
 ## Technologies
 
-- Custom JS
+- J-Query
 
 ## Installations
 
