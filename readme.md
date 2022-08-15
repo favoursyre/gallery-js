@@ -27,7 +27,7 @@ A simple script that displays picture in a sort of gallery form
 ## Installations
 
 ```bash
-git clone https://github.com/favoursyre/blurry-loader.git && cd blurry-loader
+git clone https://github.com/favoursyre/gallery-js.git && cd gallery-js
 ```
 
 ## Run
